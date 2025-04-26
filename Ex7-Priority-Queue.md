@@ -2,7 +2,7 @@
 ## DATE: 03-03-2025
 ## AIM:
 To formulate the C code to display the elements of the priority queue after insertion and deletion operation.
-
+ 
 ## Algorithm
 1.	Start
 2.	Define a function printArray() that takes an array and its size as parameters.
